@@ -1,0 +1,20 @@
+# --- 运行产物: 每篇论文一个目录 work/<doc-id>/ (解析/审核/仿真输出) ---
+work/
+
+# --- Python ---
+__pycache__/
+*.py[cod]
+*.egg-info/
+.pytest_cache/
+.venv/
+venv/
+
+# --- OS / 编辑器 ---
+.DS_Store
+Thumbs.db
+
+# --- 本地工具状态 (gstack 浏览器审计等) ---
+.gstack/
+
+# --- 本地备份 ---
+*.bak

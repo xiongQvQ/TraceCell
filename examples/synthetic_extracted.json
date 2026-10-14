@@ -1,0 +1,30 @@
+{
+  "document": {
+    "id": "SYNTHETIC-DEMO",
+    "title": "Synthetic PDF for coordinate validation only"
+  },
+  "parameters": [
+    {
+      "id": "negative_electrode_thickness",
+      "name_zh": "负极厚度",
+      "value": 85.2,
+      "unit": "micrometers",
+      "source_type": "PAPER",
+      "evidence": {
+        "quote": "Negative electrode thickness: 85.2 micrometers (synthetic example)",
+        "page": 1
+      }
+    },
+    {
+      "id": "positive_particle_radius",
+      "name_zh": "正极颗粒半径",
+      "value": 5.22,
+      "unit": "micrometers",
+      "source_type": "PAPER",
+      "evidence": {
+        "quote": "Positive particle radius: 5.22 micrometers (synthetic example)",
+        "page": 1
+      }
+    }
+  ]
+}
